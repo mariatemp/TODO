@@ -161,7 +161,7 @@ input[type="checkbox"]::after{
 }
 
 .made-by {
-  color: var(--blue);
+  color: var(--grey-dark);
 }
 
 .author {
